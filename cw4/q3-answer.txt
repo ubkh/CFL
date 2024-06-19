@@ -1,0 +1,5 @@
+12345678910
+
+Above is the output of the program upon compiling forloop2.while
+Since both loops use the same loop variable 'i', the outer loop's 'i' value
+is overwritten by the inner loop, and so the inner loop effectively runs once.
